@@ -1,7 +1,7 @@
 {
-  "name": "classroom-backend",
-  "description": "Classroom Backend API",
-  "version": "0.0.1",
+  "name": "api2",
+  "description": "Quick and simple REST API for general purposes",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
     "body-parser": "^1.14.1",
@@ -39,6 +39,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/soloschenko-grigoriy/classrooom-backend.git"
+    "url": "https://github.com/soloschenko-grigoriy/api2"
   }
 }
